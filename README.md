@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Prefix Sum
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
