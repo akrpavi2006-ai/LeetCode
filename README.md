@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
