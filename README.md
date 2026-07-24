@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -47,10 +48,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
