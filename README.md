@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2951-find-the-peaks](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2951-find-the-peaks](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->
