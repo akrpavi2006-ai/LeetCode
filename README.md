@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
