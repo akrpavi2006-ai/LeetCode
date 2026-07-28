@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -117,11 +118,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -133,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
