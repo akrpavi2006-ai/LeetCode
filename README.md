@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -109,4 +110,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 <!---LeetCode Topics End-->
