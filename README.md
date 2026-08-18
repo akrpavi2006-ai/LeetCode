@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -198,10 +200,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
