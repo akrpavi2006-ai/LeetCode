@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2951-find-the-peaks](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
