@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
