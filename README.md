@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0682-baseball-game](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
