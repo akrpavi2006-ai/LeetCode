@@ -1,13 +1,10 @@
+import java.util.HashSet;
 class Solution {
     public int maxDistinct(String s) {
-        boolean[] a=new boolean[26];
-        int count=0;
+        HashSet<Character> set=new HashSet<>();
         for(char ch:s.toCharArray()){
-            if(!a[ch-'a']){
-                a[ch-'a']=true;
-                count++;
-            }
+            set.add(ch);
         }
-        return count;
+        return set.size();
     }
 }
