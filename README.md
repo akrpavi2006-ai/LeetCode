@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## String
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
