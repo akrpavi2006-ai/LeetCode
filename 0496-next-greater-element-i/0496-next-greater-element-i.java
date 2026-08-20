@@ -11,12 +11,10 @@ class Solution {
             }
             stack.push(num);
         }
-        while(!stack.isEmpty()){
-            map.put(stack.pop(),-1);
-        }
+        
         int[] ans=new int[nums1.length];
         for(int i=0;i<nums1.length;i++){
-            ans[i]=map.get(nums1[i]);
+            ans[i]=map.getOrDefault(nums1[i],-1);
         }
         return ans;
     }
