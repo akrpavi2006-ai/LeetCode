@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -269,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
