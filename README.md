@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -263,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
