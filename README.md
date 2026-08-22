@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -275,4 +276,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 <!---LeetCode Topics End-->
