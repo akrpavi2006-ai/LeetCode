@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -299,5 +301,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
