@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0068-text-justification/) | Hard |
@@ -305,4 +306,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
