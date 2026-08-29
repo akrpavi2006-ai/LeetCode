@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2951-find-the-peaks](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Divide and Conquer
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Sliding Window
