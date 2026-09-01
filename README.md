@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -360,4 +363,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->
