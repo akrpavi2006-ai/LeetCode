@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2951-find-the-peaks](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3668-restore-finishing-order](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
