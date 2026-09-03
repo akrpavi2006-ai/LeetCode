@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## DP on Trees
