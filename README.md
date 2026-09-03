@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Matrix
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0400-nth-digit/) | Medium |
 | [0509-fibonacci-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3668-restore-finishing-order](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Trie
