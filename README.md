@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -433,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
