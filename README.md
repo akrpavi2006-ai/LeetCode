@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0941-valid-mountain-array](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
