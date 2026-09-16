@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1370-increasing-decreasing-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3668-restore-finishing-order](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akrpavi2006-ai/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/akrpavi2006-ai/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
