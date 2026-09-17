@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0290-word-pattern](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0520-detect-capital](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0520-detect-capital/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/akrpavi2006-ai/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
